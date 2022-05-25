@@ -2,10 +2,10 @@
 
 PRGNAM=bluez-alsa
 SRCNAM=bluez-alsa
-VERSION=3.1.0.1
+VERSION=3.1.0
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
-COMMIT=177e163640d7b95aafd6d18a11ed4ac22127f0f5
+COMMIT=b09f373ea7dbc6e3ecbcb74d7299f5230cdc6e59
 SOURCE=https://github.com/Arkq/bluez-alsa/archive/$COMMIT.tar.gz
 
 CWD=$(pwd)
